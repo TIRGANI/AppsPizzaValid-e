@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/2_EMSI/4-Eme_annee/S8/8-Programation_mobile/AppsPizza/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/2_EMSI/4-Eme_annee/S8/8-Programation_mobile/AppsPizza/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/2_EMSI/4-Eme_annee/S8/8-Programation_mobile/AppsPizza/app/src/main/res/drawable/ic_menu.xml" value="0.1" />
+        <entry key="..\:/2_EMSI/4-Eme_annee/S8/8-Programation_mobile/AppsPizza/app/src/main/res/drawable/ic_profile.xml" value="0.1" />
+        <entry key="..\:/2_EMSI/4-Eme_annee/S8/8-Programation_mobile/AppsPizza/app/src/main/res/drawable/ic_star.xml" value="0.1" />
+        <entry key="..\:/2_EMSI/4-Eme_annee/S8/8-Programation_mobile/AppsPizza/app/src/main/res/font/font.xml" value="0.2140625" />
+        <entry key="..\:/2_EMSI/4-Eme_annee/S8/8-Programation_mobile/AppsPizza/app/src/main/res/layout/activity_demarage.xml" value="0.184375" />
+        <entry key="..\:/2_EMSI/4-Eme_annee/S8/8-Programation_mobile/AppsPizza/app/src/main/res/layout/activity_details_fruits.xml" value="0.12" />
+        <entry key="..\:/2_EMSI/4-Eme_annee/S8/8-Programation_mobile/AppsPizza/app/src/main/res/layout/activity_main.xml" value="0.184375" />
+        <entry key="..\:/2_EMSI/4-Eme_annee/S8/8-Programation_mobile/AppsPizza/app/src/main/res/layout/activity_profile.xml" value="0.1" />
+        <entry key="..\:/2_EMSI/4-Eme_annee/S8/8-Programation_mobile/AppsPizza/app/src/main/res/layout/list_item.xml" value="0.184375" />
+        <entry key="..\:/2_EMSI/4-Eme_annee/S8/8-Programation_mobile/AppsPizza/app/src/main/res/menu/menu.xml" value="0.184375" />
+        <entry key="..\:/EMSI/4-Eme_annee/S8/8-Programation_mobile/AppsPizza/app/src/main/res/drawable/ic_launcher_background.xml" value="0.108" />
+        <entry key="..\:/EMSI/4-Eme_annee/S8/8-Programation_mobile/AppsPizza/app/src/main/res/drawable/ic_menu.xml" value="0.108" />
+        <entry key="..\:/EMSI/4-Eme_annee/S8/8-Programation_mobile/AppsPizza/app/src/main/res/drawable/menu_option.xml" value="0.108" />
+        <entry key="..\:/EMSI/4-Eme_annee/S8/8-Programation_mobile/AppsPizza/app/src/main/res/font/font.xml" value="0.1" />
+        <entry key="..\:/EMSI/4-Eme_annee/S8/8-Programation_mobile/AppsPizza/app/src/main/res/layout/activity_demarage.xml" value="0.24444444444444444" />
+        <entry key="..\:/EMSI/4-Eme_annee/S8/8-Programation_mobile/AppsPizza/app/src/main/res/layout/activity_details_fruits.xml" value="0.16666666666666666" />
+        <entry key="..\:/EMSI/4-Eme_annee/S8/8-Programation_mobile/AppsPizza/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/EMSI/4-Eme_annee/S8/8-Programation_mobile/AppsPizza/app/src/main/res/layout/list_item.xml" value="0.3333333333333333" />
+        <entry key="..\:/EMSI/4-Eme_annee/S8/8-Programation_mobile/AppsPizza/app/src/main/res/menu/menu.xml" value="1.2607142857142857" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
